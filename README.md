@@ -1,8 +1,8 @@
 # mongo-crud
 
-[![Build Status](https://travis-ci.org/torchhound/mongo-crud.svg?branch=master)](https://travis-ci.org/torchhound/mongo-crud)
+[![Build Status](https://travis-ci.org/vanishtachangea/mongo-crud.svg?branch=master)](https://travis-ci.org/vanishtachangea/mongo-crud)
 
-A CRUD API built with MongoDB and Express.
+FORKED APPLICATION TO TEST MONGO ON TRAVIS - A CRUD API built with MongoDB and Express.
 
 # Build
 
